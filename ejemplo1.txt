@@ -1,0 +1,4 @@
+Buenos dias
+haciendo cambios en mi preimer archivo
+vamos a subir a git
+despues a github para guardar en una base de datos remota
